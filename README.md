@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://twitter.com/iam_chopra_aman?s=09"><img height="30" src="https://raw.githubusercontent.com/Aman1905/Aman1905/master/img/social/t.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aman-chopra-375a81171"><img height="30" src="https://raw.githubusercontent.com/Aman1905/Aman1905/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/amanchopra.atg"><img height="30" src="https://raw.githubusercontent.com/Aman1905/Aman1905/master/img/social/m.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@amanchopra.atg"><img height="30" src="https://raw.githubusercontent.com/Aman1905/Aman1905/master/img/social/m.png"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/chopra_aman1905"><img height="30" src="https://raw.githubusercontent.com/Aman1905/Aman1905/master/img/social/i.jpg"></a>&nbsp;&nbsp;
 </p>
   
