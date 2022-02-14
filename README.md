@@ -141,10 +141,16 @@ Here are some ideas to get you started:
   </ul>
 <p><a href="https://medium.com/@amanchopra.atg">➡️ More blog posts</a></p>
 
-## Achivements 🏆🏅🎉
+## Volunteering 🏆🏅🎉
   <ul>
-
-  <li><a href="#" />Microsoft Student Learn Ambassador, University Lead (2020-21)</a></li>
+  <li>Azure Developer Community Organizer, Jan 2022 - Present</li>
+  <li>Developer Champ at Sawo Labs, Feb 2022 - Present</li>
+  <li>Microsoft Student Learn Ambassador Aug 2020 - Jun 2023 </li>
+  <li>Community Member at DSC UEMK, Oct 2020 - Sept 2021</li>
+  <li>Student Mentor at Upskill Community, Jun 2021 - Oct 2021</li>
+  <li>Mentor at The Uplift Project, Jun 2021 - Sept 2021</li>
+  <li>Student Mentor at Intrepid Geeks, Nov 2020 - Jan 2021</li>
+  <li>Campus Hero at Coding Blocks, Jun 2020 - Feb 2021</li>
   
   </ul>
 
