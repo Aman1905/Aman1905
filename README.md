@@ -149,13 +149,15 @@ Here are some ideas to get you started:
   </ul>
 
 #### Overall profile stats
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Aman1905&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 <img src="https://gpvc.arturio.dev/Aman1905" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aman1905?style=social"/> 
-
+<!-- 
 <a href="https://app.codiga.io/public/user/github/Aman1905">
-   <img src="https://app.codiga.io/public/badge/user/github/Aman1905" alt="Codiga badge" />
-</a>
+   <img src="https://api.codiga.io/public/badge/user/github/Aman1905?style=light" alt="codiga badge" />
+</a> -->
 
 <!--- 
 <p   align="center" >
