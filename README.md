@@ -131,9 +131,11 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
   <ul>
-    <li><a href="https://medium.com/@amanchopra.atg/aws-amazon-web-services-41fc7e59fc27" /> Ultimate guide or brief of AWS </a></li>
-   <li><a href="https://medium.com/@amanchopra.atg/microsoft-learn-student-ambassador-63298dc85e86" />Microsoft Learn Student Ambassador</a></li>
-   <li><a href="https://ac1905.blogspot.com/2020/06/linkedin.html" />Overview of Linkedin</a></li>
+   <li><a href="https://medium.com/nerd-for-tech/containers-in-aws-amazon-web-services-fcc329342135" />Containers in AWS (Amazon Web Services) </a></li>
+   <li><a href="https://medium.com/nerd-for-tech/git-and-github-beginners-guide-a-hands-on-approach-e97e9489a017" />Git and GitHub — Beginner’s Guide : A Hands-on Approach.</a></li>
+    <li><a href="https://medium.com/nerd-for-tech/blockchain-understanding-its-uses-and-implications-162b6d1cffd5" />Blockchain — Understanding Its Uses and Implications </a></li>
+    <li><a href="https://amanchopra-atg.medium.com/docker-a-beginners-guide-338f20f5f113" />Docker — A beginner’s guide.</a></li>
+   <li><a href="https://medium.com/@amanchopra.atg/aws-amazon-web-services-41fc7e59fc27" /> Ultimate guide or brief of AWS </a></li>
    <li><a href="https://ac1905.blogspot.com/2020/05/cloud-computing.html" />Cloud Computing</a></li>
    <li><a href="https://ac1905.blogspot.com/2020/05/full-stack-development-development-of.html" />Full Stack Development</a></li>
   </ul>
@@ -150,6 +152,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Aman1905&count_private=true&theme=merko&show_icons=true&hide=prs)
 
 <img src="https://gpvc.arturio.dev/Aman1905" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Aman1905?style=social"/> 
+
+<a href="https://app.codiga.io/public/user/github/Aman1905">
+   <img src="https://app.codiga.io/public/badge/user/github/Aman1905" alt="Codiga badge" />
+</a>
 
 <!--- 
 <p   align="center" >
